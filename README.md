@@ -1,4 +1,7 @@
 # fishkiller-CLI
+[![Build Status](https://travis-ci.org/fishkiller252/fishkiller252.svg?branch=master)](https://travis-ci.org/fishkiller252/fishkiller252)
+
+<img src="hogehoge.png" width="700">
 
 ## Usage
 

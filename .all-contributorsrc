@@ -1,0 +1,23 @@
+{
+  "projectName": "fishkiller252",
+  "projectOwner": "fishkiller252",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fishkiller252",
+      "name": "fishkiller252",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4002137?v=4",
+      "profile": "http://fishkiller252.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "test",
+        "infra"
+      ]
+    }
+  ]
+}
